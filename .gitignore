@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+
+# Ignore __pycache__ directories
+__pycache__/
+app.cpython-310.pyc
+sample.cpython-310.pyc
+test.cpython-310.pyc
+.env
+output generated.png
+sample.py
+index.html
+*.html
+*.png
+.aider*
+.aider.chat.history.md
